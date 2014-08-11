@@ -1,0 +1,23 @@
+body {
+	background-color: #AD00A8;
+}
+.intro {
+	width:100%; 
+	height: auto; 
+	color: white;
+	background-color: #000;
+	background: url(../img/tumblr_n8zm1wVHz11st5lhmo1_1280.jpg) no-repeat bottom;
+	background-size: cover;
+
+}
+.brand-heading {
+	color:white;
+}
+.intro-text {
+	color:white;
+
+}
+#about {
+	height: 550px;
+	background: #131313;
+}
